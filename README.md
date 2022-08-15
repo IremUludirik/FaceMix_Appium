@@ -7,7 +7,7 @@ Using Tools and Tech.:
 - Android Studio - SDK 
 - Android Studio - AVD
 - IntelliJ Idea
-- TensNg
+- TestNg
 - Selenium
 - Cucumber
 - JUnit
